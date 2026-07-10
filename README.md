@@ -33,6 +33,8 @@ The dashboard includes:
 - Top-selling sub-categories
 - Interactive category filter (slicer)
 
+  🔗 **Live Dashboard**: [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/6676e009-6239-4a6c-9fb6-58cb578afe6b/f84839be7385b4859b78?experience=power-bi)
+
 ## 🚀 How to Run
 1. Clone this repository
 2. Run `01_cleaning_eda.py` using Python (requires pandas, matplotlib, seaborn)
